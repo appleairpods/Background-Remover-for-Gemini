@@ -1,0 +1,6 @@
+{
+  "name": "PureEraser",
+  "description": "Solid-color background remover with precision Euclidean distance tolerance and real-time canvas preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
