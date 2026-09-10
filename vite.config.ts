@@ -66,6 +66,8 @@ function aistudioMediaPlugin(): Plugin {
 
 export default defineConfig(() => {
   return {
+    // GitHub Pages hosts this repo at /Background-Remover-for-Gemini/
+    base: '/Background-Remover-for-Gemini/',
     plugins: [react(), tailwindcss(), aistudioMediaPlugin()],
     resolve: {
       alias: {
